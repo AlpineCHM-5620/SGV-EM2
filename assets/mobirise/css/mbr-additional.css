@@ -928,10 +928,11 @@ a {
 .cid-sjFJOFoo3M .mbr-text,
 .cid-sjFJOFoo3M .mbr-section-btn {
   color: #ffffff;
+  text-align: center;
 }
 .cid-sjFJOFoo3M .card-title,
 .cid-sjFJOFoo3M .card-box {
-  text-align: left;
+  text-align: center;
 }
 .cid-shclokJuWb {
   padding-top: 6rem;
