@@ -690,7 +690,7 @@ a {
 }
 .cid-shcgQgo4v8 {
   display: flex;
-  background-image: url("../../../assets/images/verse-image-1744x1084.jpg");
+  background-image: url("../../../assets/images/verse-image-640x640.png");
 }
 .cid-shcgQgo4v8 .mbr-overlay {
   background-color: #353535;
@@ -762,11 +762,6 @@ a {
     margin-bottom: 2rem;
   }
 }
-.cid-slI7VrE7EM {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
 .cid-sjFJOFoo3M {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -814,19 +809,20 @@ a {
   text-align: center;
 }
 .cid-sl0nyjHzp6 {
-  background-image: url("../../../assets/images/mbr-1920x1387.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-sl0nyjHzp6 .mbr-text,
 .cid-sl0nyjHzp6 .mbr-section-btn {
-  color: #22a5e5;
-  text-align: left;
+  color: #e43f3f;
 }
-.cid-sl0nyjHzp6 .mbr-section-title {
-  text-align: left;
+.cid-skofgeFJMj {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
 .cid-sklqqHfS0V {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
 .cid-sklqqHfS0V .title {
@@ -850,6 +846,69 @@ a {
 .cid-sklqqHfS0V .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-sl3hnoTXlH {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-sl3hnoTXlH .content-wrapper {
+  background: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-sl3hnoTXlH .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sl3hnoTXlH .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-sl3hnoTXlH .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sl3hnoTXlH .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-sl3hnoTXlH .content-wrapper .text-wrapper {
+    padding-left: 2rem;
+  }
+}
+.cid-sl3hnoTXlH .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-sjFGKOWZXo {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-color: #ffffff;
+}
+.cid-sjFGKOWZXo .line {
+  background-color: #ff9966;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sjFGKOWZXo .mbr-text {
+  text-align: left;
+}
+.cid-sklonzDwtp {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-color: #ffffff;
+}
+.cid-sklonzDwtp .line {
+  background-color: #ff9966;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sklonzDwtp .mbr-text {
+  text-align: left;
 }
 .cid-shkbvNDGQr {
   padding-top: 7rem;
