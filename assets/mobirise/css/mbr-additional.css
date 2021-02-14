@@ -786,6 +786,52 @@ a {
 .cid-sogl2Gx6Ex .mbr-section-title {
   color: #4479d9;
 }
+.cid-soXG6Za7sr {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-soXG6Za7sr .nav-tabs .nav-item.open .nav-link:focus,
+.cid-soXG6Za7sr .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.cid-soXG6Za7sr .nav-tabs {
+  flex-wrap: wrap;
+  border-bottom: 1px solid #077bf1;
+}
+@media (max-width: 767px) {
+  .cid-soXG6Za7sr .nav-item {
+    width: 100%;
+    margin: 0;
+  }
+}
+.cid-soXG6Za7sr .nav-tabs .nav-link {
+  transition: all .5s;
+  border: none;
+  border-bottom: 3px solid transparent;
+  border-radius: 0 !important;
+}
+.cid-soXG6Za7sr .nav-tabs .nav-link:not(.active) {
+  color: #000000;
+}
+.cid-soXG6Za7sr .nav-tabs .nav-item {
+  margin-right: 1.5rem;
+}
+.cid-soXG6Za7sr .nav-link,
+.cid-soXG6Za7sr .nav-link.active {
+  padding: 1rem 0;
+  background-color: transparent;
+}
+.cid-soXG6Za7sr .nav-tabs .nav-link.active {
+  color: #077bf1;
+  border-bottom: 3px solid #077bf1;
+}
+.cid-soXG6Za7sr H4 {
+  text-align: center;
+}
+.cid-soXG6Za7sr H3 {
+  text-align: center;
+}
 .cid-soV0i863Mk {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -826,6 +872,76 @@ a {
   align: center;
   height: 2px;
   margin: 0 auto;
+}
+.cid-soXG5CTJmf {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-soXG5CTJmf .nav-tabs .nav-item.open .nav-link:focus,
+.cid-soXG5CTJmf .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.cid-soXG5CTJmf .nav-tabs {
+  flex-wrap: wrap;
+  border-bottom: 1px solid #077bf1;
+}
+@media (max-width: 767px) {
+  .cid-soXG5CTJmf .nav-item {
+    width: 100%;
+    margin: 0;
+  }
+}
+.cid-soXG5CTJmf .nav-tabs .nav-link {
+  transition: all .5s;
+  border: none;
+  border-bottom: 3px solid transparent;
+  border-radius: 0 !important;
+}
+.cid-soXG5CTJmf .nav-tabs .nav-link:not(.active) {
+  color: #000000;
+}
+.cid-soXG5CTJmf .nav-tabs .nav-item {
+  margin-right: 1.5rem;
+}
+.cid-soXG5CTJmf .nav-link,
+.cid-soXG5CTJmf .nav-link.active {
+  padding: 1rem 0;
+  background-color: transparent;
+}
+.cid-soXG5CTJmf .nav-tabs .nav-link.active {
+  color: #077bf1;
+  border-bottom: 3px solid #077bf1;
+}
+.cid-soXG5CTJmf H4 {
+  text-align: center;
+}
+.cid-soXG5CTJmf H3 {
+  text-align: center;
+}
+.cid-soXJGehfuW {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-soXJGehfuW .video-wrapper iframe {
+  width: 100%;
+}
+.cid-soXJGehfuW .mbr-section-title,
+.cid-soXJGehfuW .mbr-section-subtitle,
+.cid-soXJGehfuW .mbr-text {
+  text-align: center;
+}
+.cid-soXLDqd521 {
+  background-image: url("../../../assets/images/praying-childs-hands-2000x1333.jpg");
+}
+.cid-soXLDqd521 .mbr-text,
+.cid-soXLDqd521 .mbr-section-btn {
+  color: #d53e3e;
+  text-align: left;
+}
+.cid-soXLDqd521 .mbr-section-title {
+  text-align: left;
 }
 .cid-soUU3vpiwu {
   padding-top: 6rem;
