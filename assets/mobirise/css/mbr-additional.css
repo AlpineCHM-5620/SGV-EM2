@@ -690,9 +690,9 @@ a {
 }
 .cid-soj2aN30DI {
   display: flex;
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1358.jpg");
+  padding-top: 0px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/mbr-1920x1279.jpg");
 }
 .cid-soj2aN30DI .mbr-overlay {
   background-color: #353535;
@@ -709,7 +709,7 @@ a {
     justify-content: flex-start;
   }
   .cid-soj2aN30DI .content-wrap {
-    width: 51%;
+    width: 100%;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
@@ -730,107 +730,38 @@ a {
     width: 100%;
   }
 }
-.cid-soUYjip98D {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+.cid-soj2aN30DI .mbr-section-title {
+  color: #077bf1;
+}
+.cid-sqkEPinx2w {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
-.cid-soUYjip98D .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
+.cid-sqkEPinx2w .mbr-text {
+  color: #767676;
 }
-.cid-soUYjip98D .counter-container ol li {
-  margin-bottom: 1rem;
+.cid-sqkEPinx2w .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-soUYjip98D .counter-container ol li {
-  list-style: none;
-  padding-left: 1rem;
-  position: relative;
-}
-.cid-soUYjip98D .counter-container ol li:before {
-  position: absolute;
-  left: -40px;
-  margin-top: 5px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #d53e3e;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.cid-soUYjip98D .mbr-text {
-  color: #232323;
-}
-.cid-sogl2Gx6Ex {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sogl2Gx6Ex .video-wrapper iframe {
+.cid-sqkEPinx2w .title .num {
   width: 100%;
+  display: block;
+  font-size: 4rem;
 }
-.cid-sogl2Gx6Ex .mbr-section-title,
-.cid-sogl2Gx6Ex .mbr-section-subtitle,
-.cid-sogl2Gx6Ex .mbr-text {
-  text-align: center;
+.cid-sqkEPinx2w .title .card-title {
+  z-index: 1;
 }
-.cid-sogl2Gx6Ex .mbr-section-subtitle {
-  color: #bbbbbb;
-}
-.cid-sogl2Gx6Ex .mbr-section-title {
-  color: #4479d9;
-}
-.cid-soXG6Za7sr {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-soXG6Za7sr .nav-tabs .nav-item.open .nav-link:focus,
-.cid-soXG6Za7sr .nav-tabs .nav-link.active:focus {
-  outline: none;
-}
-.cid-soXG6Za7sr .nav-tabs {
-  flex-wrap: wrap;
-  border-bottom: 1px solid #077bf1;
+.cid-sqkEPinx2w .num {
+  color: #077bf1;
 }
 @media (max-width: 767px) {
-  .cid-soXG6Za7sr .nav-item {
-    width: 100%;
-    margin: 0;
+  .cid-sqkEPinx2w * {
+    text-align: center !important;
   }
-}
-.cid-soXG6Za7sr .nav-tabs .nav-link {
-  transition: all .5s;
-  border: none;
-  border-bottom: 3px solid transparent;
-  border-radius: 0 !important;
-}
-.cid-soXG6Za7sr .nav-tabs .nav-link:not(.active) {
-  color: #000000;
-}
-.cid-soXG6Za7sr .nav-tabs .nav-item {
-  margin-right: 1.5rem;
-}
-.cid-soXG6Za7sr .nav-link,
-.cid-soXG6Za7sr .nav-link.active {
-  padding: 1rem 0;
-  background-color: transparent;
-}
-.cid-soXG6Za7sr .nav-tabs .nav-link.active {
-  color: #077bf1;
-  border-bottom: 3px solid #077bf1;
-}
-.cid-soXG6Za7sr H4 {
-  text-align: center;
-}
-.cid-soXG6Za7sr H3 {
-  text-align: center;
+  .cid-sqkEPinx2w .content-column {
+    margin-bottom: 2rem;
+  }
 }
 .cid-soV0i863Mk {
   padding-top: 6rem;
@@ -860,7 +791,7 @@ a {
   color: #073e75;
 }
 .cid-soV0i863Mk H3 {
-  color: #073e75;
+  color: #077bf1;
 }
 .cid-sogkkEdbyt {
   padding-top: 5rem;
@@ -876,7 +807,7 @@ a {
 .cid-soXG5CTJmf {
   padding-top: 6rem;
   padding-bottom: 0rem;
-  background-color: #ffffff;
+  background-color: #e3f1f9;
 }
 .cid-soXG5CTJmf .nav-tabs .nav-item.open .nav-link:focus,
 .cid-soXG5CTJmf .nav-tabs .nav-link.active:focus {
@@ -922,7 +853,7 @@ a {
 .cid-soXJGehfuW {
   padding-top: 1rem;
   padding-bottom: 3rem;
-  background-color: #ffffff;
+  background-color: #e3f1f9;
 }
 .cid-soXJGehfuW .video-wrapper iframe {
   width: 100%;
@@ -933,20 +864,21 @@ a {
   text-align: center;
 }
 .cid-soXLDqd521 {
-  background-image: url("../../../assets/images/praying-childs-hands-2000x1333.jpg");
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
 }
 .cid-soXLDqd521 .mbr-text,
 .cid-soXLDqd521 .mbr-section-btn {
-  color: #d53e3e;
+  color: #077bf1;
   text-align: left;
 }
 .cid-soXLDqd521 .mbr-section-title {
   text-align: left;
+  color: #ffffff;
 }
 .cid-soUU3vpiwu {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #e3f1f9;
+  background-color: #e4fcec;
 }
 .cid-soUU3vpiwu .mbr-overlay {
   background-color: #ffffff;
@@ -970,5 +902,5 @@ a {
   background-color: #ffffff;
 }
 .cid-soV1yHAs2F .mbr-section-title {
-  color: #d53e3e;
+  color: #077bf1;
 }
